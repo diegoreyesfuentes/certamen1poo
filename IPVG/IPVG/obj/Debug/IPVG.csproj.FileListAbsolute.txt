@@ -1,0 +1,18 @@
+C:\Users\Windows 10\source\repos\IPVG\IPVG\bin\Debug\IPVG.dll
+C:\Users\Windows 10\source\repos\IPVG\IPVG\bin\Debug\IPVG.pdb
+C:\Users\Windows 10\source\repos\IPVG\IPVG\obj\Debug\IPVG.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\IPVG\IPVG\obj\Debug\IPVG.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\IPVG\IPVG\obj\Debug\IPVG.dll
+C:\Users\Windows 10\source\repos\IPVG\IPVG\obj\Debug\IPVG.pdb
+C:\Users\Servicio Tecnico PCF\Desktop\Certamen1\IPVG\IPVG\bin\Debug\IPVG.dll
+C:\Users\Servicio Tecnico PCF\Desktop\Certamen1\IPVG\IPVG\bin\Debug\IPVG.pdb
+C:\Users\Servicio Tecnico PCF\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.csproj.AssemblyReference.cache
+C:\Users\Servicio Tecnico PCF\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.csproj.CoreCompileInputs.cache
+C:\Users\Servicio Tecnico PCF\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.dll
+C:\Users\Servicio Tecnico PCF\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.pdb
+C:\Users\Windows 10\Desktop\Certamen1\IPVG\IPVG\bin\Debug\IPVG.dll
+C:\Users\Windows 10\Desktop\Certamen1\IPVG\IPVG\bin\Debug\IPVG.pdb
+C:\Users\Windows 10\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.dll
+C:\Users\Windows 10\Desktop\Certamen1\IPVG\IPVG\obj\Debug\IPVG.pdb
